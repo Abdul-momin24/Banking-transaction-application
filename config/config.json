@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password":"Gmail@123",
+    "database": "bankingapp",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password":"Gmail@123",
+    "database": "bankingapp_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password":"Gmail@123",
+    "database": "bankingapp_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
